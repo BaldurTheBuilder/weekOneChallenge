@@ -10,6 +10,7 @@ N/A
 ## Usage
 
 The code may be examined through its github file, or through chrome dev tools. Outside the page's design and layout, the only interactive elements are the three links on the top banner, allowing the user to jump to the specific section mentioned.
+Website link: https://baldurthebuilder.github.io/weekOneChallenge/#social-media-marketing
 
 ## Credits
 N/A

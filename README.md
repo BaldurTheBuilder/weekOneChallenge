@@ -4,9 +4,15 @@
 
 This project is part of the UO full stack coding bootcamp curriculum. It is one of a series of weekly challenges used to gain experience coding. This particular project involved investigating a basic website and conducting accessibility control. In particular the project highlights debugging, code consolidation, HTML specificity, and parent/child relationships in code.
 
+## Installation
+N/A
+
 ## Usage
 
 The code may be examined through its github file, or through chrome dev tools. Outside the page's design and layout, the only interactive elements are the three links on the top banner, allowing the user to jump to the specific section mentioned.
+
+## Credits
+N/A
 
 ## License
 
